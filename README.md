@@ -23,8 +23,8 @@ Follow these instructions to set up and run the project on your local machine.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sarthakMiglani726/gemini-explorer.git
-cd gemini-explorer
+git clone https://github.com/sarthakMiglani726/Google-Gemini-Explorer.git
+cd Google-Gemini-Explorer
 ```
 
 2. Create and activate a virtual environment:
