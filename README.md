@@ -14,7 +14,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - Vertex AI Python client library
 - Streamlit
 
