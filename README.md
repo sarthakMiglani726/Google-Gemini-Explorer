@@ -48,7 +48,7 @@ vertexai.init(project=project)
 Start the Streamlit application by running:
 
 ```bash
-streamlit run app.py
+streamlit run gemini_explorer.py
 ```
 
 ### Usage
